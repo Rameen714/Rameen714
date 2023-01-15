@@ -6,11 +6,11 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
 -> I am skilled in C, C++, Java, and SQL. Apart from these coding languages, I also worked a little in HTML, CSS, and JS.
 -> I have learned:
     Programming-Related Courses:
-    -> Programming Fundamentals
-    -> Object-Oriented Programming
-    -> Data Structures
-    -> Database Systems
-    -> Operating Systems
+    - Programming Fundamentals
+    - Object-Oriented Programming
+    - Data Structures
+    - Database Systems
+    - Operating Systems
     Software Engineering-Related Courses:
     -> Software Requirements Engineering
     -> Software Design and Architecture
