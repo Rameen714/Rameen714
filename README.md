@@ -1,8 +1,11 @@
 # Hi! I am Rameen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
 
-Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES Lahore and in my junior year.  
-
- I am interested in AI, Ethical Hacking/Information Security, and Web technologies.   
+ ## 👩About Me
+    Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES Lahore and in my junior year.  
+    * I am interested in AI, Ethical Hacking/Information Security, and Web technologies. 
+    * I love coding, solving problems and organizing things.
+    * Honesty and sincerity are my core values.
+    * Quality work is my first preference always.
  
  ## 📟 Reach Me
  <div id="badges" align="center">
@@ -14,12 +17,8 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
   </a>
 </div>
  
- ## <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> GitHub Stats
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameen725)](https://github.com/anuraghazra/github-readme-stats)
- 
-
- ## :hammer_and_wrench: Languages and Tools :
-<div>
+  ## :hammer_and_wrench: Languages and Tools :
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -29,6 +28,9 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+ 
+ ## GitHub Stats
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameen725)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
  
