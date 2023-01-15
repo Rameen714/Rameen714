@@ -46,6 +46,8 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+<!--
  > * *Programming Languages:*  
  >  - [x] C  
  >  - [x] C++  
@@ -55,5 +57,5 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
  >  - [ ]  CSS  
  >  - [ ]  C#  
  >  - [ ]  JS  
-
+-->
 ---  
