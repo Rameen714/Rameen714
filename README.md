@@ -14,7 +14,7 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
   </a>
 </div>
  
- ## GitHub Stats
+ ## <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> GitHub Stats
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameen725)](https://github.com/anuraghazra/github-readme-stats)
  
 
