@@ -1,4 +1,4 @@
-# Hi! I am Rameen :Wave:
+# Hi! I am Rameen  👋
 
 Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES Lahore and in my junior year.  
 
