@@ -25,9 +25,9 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
  >  - [x] C++  
  >  - [x] Java  
  >  - [x] SQL  
- >  - []  HTML  
- >  - []  CSS  
- >  - []  C#  
- >  - []  JS  
+ >  - [ ]  HTML  
+ >  - [ ]  CSS  
+ >  - [ ]  C#  
+ >  - [ ]  JS  
 
 This year, I plan to polish my skills by learning front-end web languages such as HTML, CSS, C#, and React.  
