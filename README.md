@@ -5,8 +5,9 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
  I am interested in AI, Ethical Hacking/Information Security, and Web technologies.   
  
  ---  
+ https://github.com/Rameen725/Rameen725/blob/main/README.md#  
  
- >I have learned:  |
+ >I have learned:  
  > * *Programming-Related Courses:*  
  >   * Programming Fundamentals  
  >   * Object-Oriented Programming  
