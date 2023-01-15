@@ -5,7 +5,7 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
  I am interested in AI, Ethical Hacking/Information Security, and Web technologies.   
  
  <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/rameen-amir-406353227/)">
+  <a href="https://www.linkedin.com/in/rameen-amir-406353227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
