@@ -1,11 +1,11 @@
-# Hi! I am Rameen  👋
+# Hi! I am Rameen :h
 
 Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES Lahore and in my junior year.  
 
  I am interested in AI, Ethical Hacking/Information Security, and Web technologies.   
  
  ---  
- https://github.com/Rameen725/Rameen725/blob/main/README.md#  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameen725)](https://github.com/anuraghazra/github-readme-stats)
  
  >I have learned:  
  > * *Programming-Related Courses:*  
