@@ -11,9 +11,6 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
   <a href="https://leetcode.com/rameen714/">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameen725)](https://github.com/anuraghazra/github-readme-stats)
