@@ -10,7 +10,18 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
     * Object-Oriented Programming  
     * Data Structures  
     * Database Systems  
-    * Operating Systems  
+    > Operating Systems 
+     Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
     *Software Engineering-Related Courses:*  
     -> Software Requirements Engineering  
     -> Software Design and Architecture  
