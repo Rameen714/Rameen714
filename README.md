@@ -4,7 +4,8 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
 
  I am interested in AI, Ethical Hacking/Information Security, and Web technologies.   
  
- <div id="badges">
+ ## Reach Me
+ <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rameen-amir-406353227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,6 +13,7 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode Badge"/>
   </a>
 </div>
+ 
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameen725)](https://github.com/anuraghazra/github-readme-stats)
  
