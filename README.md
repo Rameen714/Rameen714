@@ -8,8 +8,8 @@ Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES La
   <a href="https://www.linkedin.com/in/rameen-amir-406353227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  <a href="https://leetcode.com/rameen714/">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
