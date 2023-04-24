@@ -32,7 +32,7 @@
  ## GitHub Stats
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameen714&show_icons=true&theme=tokyonight)
  <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&count-private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
  
