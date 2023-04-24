@@ -32,9 +32,8 @@
  ## GitHub Stats
  ![Rameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameen714&show_icons=true&theme=tokyonight)
  <br>
- <div style="height:200px">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+ 
 
  
  ---
@@ -45,12 +44,16 @@
  >   * Object-Oriented Programming  
  >   * Data Structures  
  >   * Database Systems  
- >   * Operating Systems  
+ >   * Operating Systems
+ >   * Design and Analysis of Algorithms 
+ >   * Computer Networks
+ >   * Web Engineering  
  > * *Software Engineering-Related Courses:*  
  >   - Software Requirements Engineering  
  >   - Software Design and Architecture  
  >   - Software Development and Construction  
  >   - Software Quality Engineering  
+ >   - Formal Methods
 
 
 
@@ -61,9 +64,10 @@
  >  - [x] C++  
  >  - [x] Java  
  >  - [x] SQL  
- >  - [ ]  HTML  
- >  - [ ]  CSS  
+ >  - [x]  HTML  
+ >  - [x]  CSS  
+ >  - [x]  JS   
  >  - [ ]  C#  
- >  - [ ]  JS  
+ 
 -->
 ---  
