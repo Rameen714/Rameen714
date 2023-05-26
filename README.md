@@ -43,7 +43,7 @@
 
  
  <a href="https://github.com/rameen714/github-langauges-and-tools" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=compact" />
  </a>
  
  </div>
