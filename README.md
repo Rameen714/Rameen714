@@ -22,7 +22,6 @@
  
   ## :hammer_and_wrench: Languages and Tools :
   <div >
-<a align="left" href="https://github.com/rameen714/github-readme-stats" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -39,12 +38,12 @@
  
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
- </a>
+
 
  
- <a align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=compact" />
- </a>
+ 
+  ![Rameen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=compact")
+ 
  
  </div>
  
@@ -54,12 +53,7 @@
  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameen714"/>
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 
  
  ---
