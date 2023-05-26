@@ -45,7 +45,9 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut)
 
  </aside>
- 
+ <a >
+  <img align="right" src=" (https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut)" />
+</a>
  </div>
  
  
