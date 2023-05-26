@@ -40,15 +40,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </aside>
-<aside width="50%" align="right">
 
- //![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut)
-
- </aside>
  
  <a href="https://github.com/rameen714/github-readme-stats" >
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut" />
-</a>
+ </a>
  </div>
  
  
