@@ -1,5 +1,5 @@
 # Hi! I am Rameen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
-<span style="justify-content:'right'">
+<span>
 ![](https://komarev.com/ghpvc/?username=rameen714&color=green)
 </span>
 
