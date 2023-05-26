@@ -1,4 +1,7 @@
 # Hi! I am Rameen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
+<span style="justify-content:'right'">
+![](https://komarev.com/ghpvc/?username=rameen714&color=green)
+</span>
 
  ## 👩About Me
     Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES Lahore and in my junior year.  
@@ -40,7 +43,7 @@
  ![Rameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameen714&show_icons=true&theme=tokyonight)
  <br>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=compact)
- ![](https://komarev.com/ghpvc/?username=rameen714&color=green)
+
  
 
  
