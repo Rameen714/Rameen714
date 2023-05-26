@@ -1,7 +1,7 @@
 # Hi! I am Rameen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
-<span>
+
 ![](https://komarev.com/ghpvc/?username=rameen714&color=green)
-</span>
+
 
  ## 👩About Me
     Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES Lahore and in my junior year.  
