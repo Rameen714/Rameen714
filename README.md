@@ -42,11 +42,12 @@
 </aside>
 <aside width="50%" align="right">
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut)
+ //![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut)
 
  </aside>
- <a href=" https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut" >
-  <img align="right" src=" (https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut)" />
+ 
+ <a href="https://github.com/rameen714/github-readme-stats" >
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut" />
 </a>
  </div>
  
