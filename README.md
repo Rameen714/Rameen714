@@ -43,7 +43,7 @@
 
  
  <a href="https://github.com/rameen714/github-langauges-and-tools" >
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut" />
  </a>
  
  </div>
@@ -52,8 +52,7 @@
  ## GitHub Stats
  ![Rameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameen714&show_icons=true&theme=tokyonight)
  
-
-
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameen714"/>
  
 
  
