@@ -42,7 +42,7 @@
  </a>
 
  
- <a >
+ <a align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=compact" />
  </a>
  
