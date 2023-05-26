@@ -42,7 +42,7 @@
 </aside>
 <aside width="50%" align="right">
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameen714&layout=donut)
 
  </aside>
  
