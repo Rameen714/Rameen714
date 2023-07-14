@@ -19,7 +19,29 @@
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode Badge"/>
   </a>
 </div>
- 
+
+ <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/rameen_webdev rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-c82c0d04-2ae9-4c21-a0f0-80cbcbf7958f' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >rameen_webdev</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>🌟 Experienced WordPress developer specialized in creating customized and visually appealing websites.
+💼 Proficient in HTML, CSS, and, JavaScript, ensuring seamless functionality and responsive designs.
+⚡️ Meticulous attention to detail, crafting pixel-perfect websites that exceed client expectations.
+🔧 Expertise in theme customization, plugin integration, and optimizing WordPress site performance.
+💡 Skilled in collaborating with clients, tailoring solution to their unique needs.
+🚀 Let's transform your ideas into a captivating WordPress website that elevates your brand! 
+
+Contact me today.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-c82c0d04-2ae9-4c21-a0f0-80cbcbf7958f' src='https://widgets.fiverr.com/api/v1/seller/rameen_webdev?widget_id=c82c0d04-2ae9-4c21-a0f0-80cbcbf7958f' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
+
+
   ## :hammer_and_wrench: Languages and Tools :
   <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>&nbsp;
