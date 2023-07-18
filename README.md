@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode Badge"/>
   </a>
   <a href="https://www.fiverr.com/rameen_webdev">
-    <img src="https://img.shields.io/badge/Fiverr-white?style=for-the-badge&logo=fiverr" alt="Fiverr Badge"/>
+    <span><img src="https://img.shields.io/badge/Fiverr-white?style=for-the-badge&logo=fiverr" alt="Fiverr Badge" border/></span>
   </a>
         
 </div>
