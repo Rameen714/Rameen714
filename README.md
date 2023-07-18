@@ -2,14 +2,17 @@
 
 ![](https://komarev.com/ghpvc/?username=rameen714&color=blueviolet&style=plastic)
 
-
+<div style="color: white; background-color: blueviolet; padding: 10px;">
+    <strong>👩About Me</strong>
+    
  ## 👩About Me
- <div style="color:white;background-color:black;">
+ <p>
     Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES Lahore and now in my senior year.  
     * I am interested in AI, Ethical Hacking/Information Security, and Web technologies. 
     * I love coding, solving problems and organizing things.
     * Honesty and sincerity are my core values.
     * Quality work is my first preference always.
+ </p>
  </div>
  ## 📟 Reach Me
  <div id="badges" align="center">
