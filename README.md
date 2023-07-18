@@ -21,8 +21,8 @@
   <a href="https://leetcode.com/rameen714/">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode Badge"/>
   </a>
-  <a href="[https://leetcode.com/rameen714/](https://www.fiverr.com/rameen_webdev)">
-    <img src="https://img.shields.io/badge/Fiverr-green?style=for-the-badge&logo=leetcode" alt="Fiverr Badge"/>
+  <a href="https://www.fiverr.com/rameen_webdev">
+    <img src="https://img.shields.io/badge/Fiverr-green?style=for-the-badge&logo=fiverr" alt="Fiverr Badge"/>
   </a>
         
 </div>
