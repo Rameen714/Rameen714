@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.fiverr.com/rameen_webdev">
-    <span><img src="https://img.shields.io/badge/Fiverr-white?style=for-the-badge&logo=fiverr" alt="Fiverr Badge" border/></span>
+    <span><img src="https://img.shields.io/badge/Fiverr-lightgray?style=for-the-badge&logo=fiverr" alt="Fiverr Badge" border/></span>
   </a>
   <a href="https://leetcode.com/rameen714/">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode Badge"/>
