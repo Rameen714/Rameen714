@@ -4,12 +4,13 @@
 
 
  ## 👩About Me
+ <div style="color:white;background-color:black;">
     Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES Lahore and now in my senior year.  
     * I am interested in AI, Ethical Hacking/Information Security, and Web technologies. 
     * I love coding, solving problems and organizing things.
     * Honesty and sincerity are my core values.
     * Quality work is my first preference always.
- 
+ </div>
  ## 📟 Reach Me
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rameen-amir-406353227/">
