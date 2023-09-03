@@ -15,7 +15,7 @@
 
  ## 📟 Reach Me
  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rameen-amir-406353227/">
+  <a href="https://www.linkedin.com/in/rameenamir/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.fiverr.com/rameen_webdev">
