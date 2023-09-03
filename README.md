@@ -6,13 +6,12 @@
 
 
 ## 👩About Me👋
-        Currently, I am enrolled in Software Engineering Degree Program at FAST-NUCES Lahore and now in my senior year.  
+        Currently, I am in my senior year in Software Engineering Degree Program at FAST-NUCES Lahore.
         * I am interested in AI, Ethical Hacking/Information Security, and Web technologies. 
         * I love coding, solving problems and organizing things.
         * Honesty and sincerity are my core values.
         * Quality work is my first preference always.
-        * Novice Chess Player
-        * Newcomer to Reading. Currently immersed in 'How to Control Your Subconscious Mind' by Joseph Murphy
+        * I am novice Chess Player and newcomer to Reading. Currently immersed in 'How to Control Your Subconscious Mind' by Joseph Murphy
 
 
  ## 📟 Reach Me
