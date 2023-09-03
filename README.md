@@ -11,6 +11,8 @@
         * I love coding, solving problems and organizing things.
         * Honesty and sincerity are my core values.
         * Quality work is my first preference always.
+        * Novice Chess Player
+        * Newcomer to Reading. Currently immersed in 'How to Control Your Subconscious Mind' by Joseph Murphy
 
 
  ## 📟 Reach Me
