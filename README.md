@@ -11,7 +11,7 @@
         * I love coding, solving problems and organizing things.
         * Honesty and sincerity are my core values.
         * Quality work is my first preference always.
-        * I am novice Chess Player and newcomer to Reading. Currently immersed in 'How to Control Your Subconscious Mind' by Joseph Murphy
+        * I am novice Chess Player and newcomer to Reading. Currently immersed in 'The Power of Your Subconscious Mind' by Joseph Murphy
 
 
  ## 📟 Reach Me
