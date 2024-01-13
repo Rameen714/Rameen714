@@ -76,6 +76,7 @@
  >   * Computer Networks
  >   * Web Engineering
  >   * Artificial Intelligence
+ >   * Information Security
  > * *Software Engineering-Related Courses:*  
  >   - Software Requirements Engineering  
  >   - Software Design and Architecture  
