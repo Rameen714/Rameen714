@@ -77,7 +77,8 @@
  >   * Operating Systems
  >   * Design and Analysis of Algorithms 
  >   * Computer Networks
- >   * Web Engineering  
+ >   * Web Engineering
+ >   * Artificial Intelligence
  > * *Software Engineering-Related Courses:*  
  >   - Software Requirements Engineering  
  >   - Software Design and Architecture  
