@@ -7,7 +7,7 @@
 
 ## 👩About Me👋
         Currently, I am in my final semester in Software Engineering Degree Program at FAST-NUCES Lahore.
-        * I am interested in AI, Ethical Hacking/Information Security, and Web technologies. 
+        * I am interested in Artificial Intelligence and Web technologies. 
         * I love coding, solving problems and organizing things.
         * Honesty and sincerity are my core values.
         * Quality work is my first preference always.
