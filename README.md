@@ -77,6 +77,8 @@
  >   * Web Engineering
  >   * Artificial Intelligence
  >   * Information Security
+ >   * Data Science
+
  > * *Software Engineering-Related Courses:*  
  >   - Software Requirements Engineering  
  >   - Software Design and Architecture  
@@ -84,7 +86,7 @@
  >   - Software Quality Engineering  
  >   - Formal Methods
  >   - Software Project Managment
-
+ >   - Software Re-engineering
 
 
 ---
