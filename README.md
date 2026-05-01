@@ -6,12 +6,12 @@
 -->
 
 ## 👩About Me👋
-        I am a Software Engineering Grad from FAST-NUCES Lahore, currently working as an Assosciate Software Engineer at Dubizzle Labs.
+        I am an SE Grad from FAST-NUCES Lahore, currently working as a Full Stack Software Engineer at Dubizzle Labs.
         * I am interested in Artificial Intelligence and Web technologies. 
         * I love coding, solving problems and organizing things.
         * Honesty and sincerity are my core values.
         * Quality work is my first preference always.
-        * I am novice Chess Player and newcomer to Reading. Currently immersed in 'Think and Grow Rich' by Napolean Hill
+        * Currently, involved in neetCode Blind 75
 
 
  ## 📟 Reach Me
@@ -57,7 +57,7 @@
  
  
  ## GitHub Stats
- ![Rameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rameen714&show_icons=true&theme=tokyonight)
+ ![Rameen's GitHub stats](https://github-readme-stats-3u3g2q1ra-rameenamirs-projects.vercel.app/api?username=Rameen714&show_icons=true&theme=tokyonight)
  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameen714"/> 
 
